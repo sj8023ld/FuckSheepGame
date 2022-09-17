@@ -11,7 +11,7 @@
 /*
 [rewrite_local]
 # > Fuck Sheep Game
-^https?:\/\/cat-match\.easygame2021\.com\/sheep\/v1\/game\/map_info_new url script-request-header https://raw.githubusercontent.com/missuo/FuckSheepGame/main/sheep.js
+^https?:\/\/cat-match\.easygame2021\.com\/sheep\/v1\/game\/map_info_new url script-request-header https://raw.githubusercontent.com/sj8023ld/FuckSheepGame/main/sheep.js
 [mitm] 
 hostname = cat-match.easygame2021.com
 */
